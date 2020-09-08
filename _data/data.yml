@@ -30,7 +30,7 @@ sidebar:
         level: Nativo
 
       - idiom: Gallego
-        level: Nativo
+        level: Nativo (Celga 4)
 
       - idiom: Inglés
         level: Profesional
@@ -39,13 +39,13 @@ sidebar:
         level: Profesional
 
     interests:
-      - item: Climbing
+      - item:
         link:
 
-      - item: Snowboarding
+      - item:
         link:
 
-      - item: Cooking
+      - item:
         link:
 
 career-profile:
@@ -58,9 +58,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
+      university: IES San Clemente (Santiago)
+      time: 2018 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +69,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Certificado de Profesionalidad de Programación de Sistemas Informáticos
+      university: GDoce (Santiago)
+      time: 2017 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -119,7 +119,7 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Proyectos
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -146,29 +146,17 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: 
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title:
+        link:
+        authors:
+        conference:
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Competencias profesionales
 
     toolset:
       - name: Python & Django
@@ -178,7 +166,7 @@ skills:
         level: 98%
 
       - name: Angular
-        level: 98%
+        level: 1%
 
       - name: HTML5 & CSS
         level: 95%
