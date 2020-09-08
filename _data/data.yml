@@ -87,7 +87,7 @@ experiences:
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer
-      time: 2014 - 2015
+      time:
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
