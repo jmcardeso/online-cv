@@ -24,6 +24,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    cv: True # False si no se quiere que aparezca la opción de descargar el CV
 
     languages:
       - idiom: Español
