@@ -33,10 +33,10 @@ sidebar:
         level: Nativo - Celga 4
 
       - idiom: Inglés
-        level: Profesional
+        level: Intermedio
 
       - idiom: Francés
-        level: Profesional
+        level: Intermedio
 
 career-profile:
     title: Cosas bonitas
@@ -136,26 +136,35 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
-    title: Competencias profesionales
+    title: Competencias
 
     toolset:
-      - name: Python & Django
+      - name: .NET
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Python
         level: 98%
 
-      - name: Angular
-        level: 1%
+      - name: Java
+        level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: C/C++
+        level: 90%
 
-      - name: Ruby on Rails
+      - name: SQL
+        level: 90%
+
+      - name: MongoDB
+        level: 80%
+
+      - name: PHP
+        level: 80%
+
+      - name: JavaScript - jQuery
+        level: 80%
+
+      - name: HTML5 - CSS
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
