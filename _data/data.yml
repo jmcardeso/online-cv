@@ -38,76 +38,38 @@ sidebar:
       - idiom: Francés
         level: Intermedio
 
-career-profile:
-    title: Cosas bonitas
-    summary: |
-      La vida es muy bonita y esto y lo otro. Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here](assets/files/CV-Juan_Cardeso.pdf).
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
 education:
     - degree: Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
       university: IES San Clemente (Santiago)
       time: 2018 - 2020
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: 
+
     - degree: Certificado de Profesionalidad de Programación de Sistemas Informáticos
       university: GDoce (Santiago)
       time: 2017 - 2018
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: 
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+    - role: Desarrollador
       time:
-      company: Google, London
+      company: Altia, Santiago
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        *(Prácticas FCT - DAM)*
+        Parte del equipo de *Análisis e implantación de Admin. electrónica integral*, elaborando formularios
+        para la sede eléctronica de la Xunta de Galicia, tanto a nivel de diseño (HTML5, CSS), como de programación (JavaScript, jQuery).
+        
+    - role: Desarrolador
+      time:
+      company: Arcade Consultores, Santiago
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        *(Prácticas AFD)*
+        Implementación y ejecución de pruebas para el software elaborado por la empresa.
+        
+    - role: Desarrollador
+      time:
+      company: GIG, S.A., Santiago
+      details: |
+        Desarrollo de software de gestión, así como instalación y mantenimiento para el cliente.
 projects:
     title: Proyectos
     intro: >
