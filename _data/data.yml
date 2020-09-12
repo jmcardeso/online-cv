@@ -74,13 +74,12 @@ experiences:
 projects:
     title: Proyectos
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Una pequeña colección de aplicaciones creadas tanto por motivos académicos como personales.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Gesalt
+        link: "https://github.com/jmcardeso/pfc-san-clemente"
+        tagline: "Creada como proyecto de fin de ciclo de DAM, Gesalt es un programa para gestionar alquileres turísticos. Su principal característica es que es database-agnostic, es decir, puede funcionar con cualquier sistema gestor de bases de datos (Access, MySQL, Oracle, etc.) sin necesidad de modificar el código, simplemente añadiendo la cadena de conexión específica."
 
       - title: DevStudio
         link: "#"
