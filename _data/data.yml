@@ -79,23 +79,19 @@ projects:
     assignments:
       - title: Gesalt
         link: "https://github.com/jmcardeso/pfc-san-clemente"
-        tagline: "Creada como proyecto de fin de ciclo de DAM, Gesalt es un programa para gestionar alquileres turísticos. Su principal característica es que es database-agnostic, es decir, puede funcionar con cualquier sistema gestor de bases de datos (Access, MySQL, Oracle, etc.) sin necesidad de modificar el código, simplemente añadiendo la cadena de conexión específica."
+        tagline: "Creado como proyecto de fin de ciclo de DAM, Gesalt es un programa para gestionar alquileres turísticos. Su principal característica es que es database-agnostic, es decir, puede funcionar con cualquier sistema gestor de bases de datos (Access, MySQL, Oracle, etc.) sin necesidad de modificar el código, simplemente añadiendo la cadena de conexión específica."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: gestciclo
+        link: "https://github.com/jmcardeso/gestciclo"
+        tagline: "Módulo de Odoo que implementa la funcionalidad básica para la gestión de un ciclo de FP."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: San Clemente Battle
+        link: "https://github.com/jmcardeso/proyecto_jej"
+        tagline: "Realizado en colaboración con otros dos compañeros del ciclo como proyecto de fin de curso de la asignatura de Programación, San Clemente Battle es un juego de lucha entre alumnos y profesores del IES San Clemente ;)."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: PedidoSuper
+        link: "https://github.com/jmcardeso/PedidoSuper"
+        tagline: "Aplicación personal para elaborar la lista de la compra en un supermercado. Utilizando técnicas de scraping, busca en la web del súper y almacena en formato XML los productos especificados para poder crear una lista de la compra que se puede guardar e imprimir."
 
 skills:
     title: Competencias
