@@ -91,7 +91,7 @@ projects:
 
       - title: PedidoSuper
         link: "https://github.com/jmcardeso/PedidoSuper"
-        tagline: "Aplicación personal para elaborar la lista de la compra en un supermercado. Utilizando técnicas de scraping, busca en la web del súper y almacena en formato XML los productos especificados para poder crear una lista de la compra que se puede guardar e imprimir."
+        tagline: "Aplicación personal para elaborar la lista de la compra en un supermercado. Utilizando técnicas de scraping, busca en la web del súper y almacena en formato XML los productos especificados para crear una lista de la compra que se puede guardar e imprimir."
 
 skills:
     title: Competencias
