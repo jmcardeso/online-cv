@@ -89,7 +89,7 @@ projects:
         link: "https://github.com/jmcardeso/proyecto_jej"
         tagline: "Realizado en colaboración con otros dos compañeros del ciclo como proyecto de fin de curso de la asignatura de Programación, San Clemente Battle es un juego de lucha entre alumnos y profesores del IES San Clemente ;)."
 
-      - title: PedidoSuper
+      - title: PedidoSúper
         link: "https://github.com/jmcardeso/PedidoSuper"
         tagline: "Aplicación personal para elaborar la lista de la compra en un supermercado. Utilizando técnicas de scraping, busca en la web del súper y almacena en formato XML los productos especificados para crear una lista de la compra que se puede guardar e imprimir."
 
