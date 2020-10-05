@@ -52,15 +52,21 @@ education:
 
 experiences:
     - role: Desarrollador
-      time:
+      time: Ocupación actual
+      company: Altia, Santiago
+      details: | 
+        Parte del equipo de *Análisis e implantación de Admin. electrónica integral*, elaborando formularios
+        para la sede eléctronica de la Xunta de Galicia, tanto a nivel de diseño (HTML5, CSS), como de programación (JavaScript, jQuery).
+
+    - role: Desarrolador
+      time: 2020
       company: Altia, Santiago
       details: |
         *(Prácticas FCT - DAM)*  
-        Parte del equipo de *Análisis e implantación de Admin. electrónica integral*, elaborando formularios
-        para la sede eléctronica de la Xunta de Galicia, tanto a nivel de diseño (HTML5, CSS), como de programación (JavaScript, jQuery).
+        Prácticas en el equipo de *Análisis e implantación de Admin. electrónica integral*.
         
     - role: Desarrolador
-      time:
+      time: 2018
       company: Arcade Consultores, Santiago
       details: |
         *(Prácticas AFD)*  
