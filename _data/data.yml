@@ -40,6 +40,11 @@ sidebar:
         level: Intermedio
 
 education:
+    - degree: Técnico Superior en Desarrollo de Aplicaciones Web
+      university: IES San Clemente (Santiago)
+      time: 2020 - 2021
+      details: 
+      
     - degree: Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
       university: IES San Clemente (Santiago)
       time: 2018 - 2020
@@ -107,7 +112,7 @@ skills:
         level: 98%
 
       - name: Python
-        level: 98%
+        level: 95%
 
       - name: Java
         level: 98%
@@ -119,16 +124,19 @@ skills:
         level: 90%
 
       - name: MongoDB
-        level: 80%
+        level: 85%
 
       - name: PHP
-        level: 80%
+        level: 90%
+
+      - name: Node.js
+        level: 90%
 
       - name: JavaScript - jQuery
-        level: 80%
+        level: 90%
 
       - name: HTML5 - CSS
-        level: 85%
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> - Adaptado a Jekyll por <a href="https://github.com/sharu725" target="_blank" rel="nofollow">sharu725</a>
