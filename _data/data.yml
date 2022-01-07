@@ -88,6 +88,10 @@ projects:
       Una pequeña colección de aplicaciones creadas tanto por motivos académicos como personales.
 
     assignments:
+      - title: RetroAPI
+        link: "https://github.com/jmcardeso/pfc-san-clemente-daw"
+        tagline: "Proyecto de fin de ciclo de DAW. RetroAPI es una API que permite recopilar información sobre hardware retro de manera centralizada y de libre acceso. Creada con Node.js y utilizando la metodología REST, implementa las operaciones CRUD (crear, leer, modificar y borrar) para gestionar sus datos."
+
       - title: Gesalt
         link: "https://github.com/jmcardeso/pfc-san-clemente"
         tagline: "Creado como proyecto de fin de ciclo de DAM, Gesalt es un programa para gestionar alquileres turísticos. Su principal característica es que es database-agnostic, es decir, puede funcionar con cualquier sistema gestor de bases de datos (Access, MySQL, Oracle, etc.) sin necesidad de modificar el código, simplemente añadiendo la cadena de conexión específica."
