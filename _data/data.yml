@@ -40,6 +40,11 @@ sidebar:
         level: Intermedio
 
 education:
+    - degree: Técnico Superior en Desarrollo de Aplicaciones Web
+      university: IES San Clemente (Santiago)
+      time: 2020 - 2021
+      details: 
+
     - degree: Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
       university: IES San Clemente (Santiago)
       time: 2018 - 2020
@@ -53,17 +58,22 @@ education:
 experiences:
     - role: Desarrollador
       time: Ocupación actual
+      company: Coremain, Santiago
+      details: | 
+        Desarrollo, evolución y adaptación del *Sistema de Gestión Académica (XADE)*.
+
+    - role: Desarrollador
+      time: 2022
       company: Altia, Santiago
       details: | 
-        Parte del equipo de *Análisis e implantación de Admin. electrónica integral*, elaborando formularios
-        para la sede eléctronica de la Xunta de Galicia, tanto a nivel de diseño (HTML5, CSS), como de programación (JavaScript, jQuery).
+        Parte del equipo de *Análisis e implantación de Administración electrónica integral*.
 
     - role: Desarrolador
       time: 2020
       company: Altia, Santiago
       details: |
         *(Prácticas FCT - DAM)*  
-        Prácticas en el equipo de *Análisis e implantación de Admin. electrónica integral*.
+        Prácticas en el equipo de *Análisis e implantación de Administración electrónica integral*.
         
     - role: Desarrolador
       time: 2018
